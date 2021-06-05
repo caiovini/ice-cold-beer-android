@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/caio/android-studio/workspace/android-cold-beer/android/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "/home/caio/android-studio/workspace/ice-cold-beer-android/android/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/caio/android-studio/workspace/android-cold-beer/android/res/values/color.xml",
+                    "source": "/home/caio/android-studio/workspace/ice-cold-beer-android/android/res/values/color.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/caio/android-studio/workspace/android-cold-beer/android/res/values/styles.xml",
+                    "source": "/home/caio/android-studio/workspace/ice-cold-beer-android/android/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "/home/caio/android-studio/workspace/android-cold-beer/android/res/values/strings.xml",
+                    "source": "/home/caio/android-studio/workspace/ice-cold-beer-android/android/res/values/strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

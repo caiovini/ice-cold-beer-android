@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ice-cold-beer-android.iml" filepath="$PROJECT_DIR$/.idea/modules/ice-cold-beer-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/ice-cold-beer-android.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/ice-cold-beer-android.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/ice-cold-beer-android.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/ice-cold-beer-android.core.iml" />
+    </modules>
+  </component>
+</project>
