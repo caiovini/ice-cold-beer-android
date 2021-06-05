@@ -1,0 +1,77 @@
+[
+  {
+    "posX": 1900,
+    "posY": 900,
+    "isScore":1
+  },
+  {
+    "posX": 300,
+    "posY": 700,
+    "isScore": 0
+  },
+  {
+    "posX": 330,
+    "posY": 500,
+    "isScore": 0
+  },
+  {
+    "posX": 350,
+    "posY": 200,
+    "isScore": 0
+  },
+  {
+    "posX": 900,
+    "posY": 400,
+    "isScore": 0
+  },
+  {
+    "posX": 1100,
+    "posY": 430,
+    "isScore": 0
+  },
+  {
+    "posX": 1100,
+    "posY": 900,
+    "isScore": 0
+  },
+  {
+    "posX": 1240,
+    "posY": 600,
+    "isScore": 0
+  },
+  {
+    "posX": 1340,
+    "posY": 200,
+    "isScore": 0
+  },
+  {
+    "posX": 1430,
+    "posY": 320,
+    "isScore": 0
+  },
+  {
+    "posX": 1930,
+    "posY": 450,
+    "isScore": 0
+  },
+  {
+    "posX": 1750,
+    "posY": 600,
+    "isScore": 0
+  },
+  {
+    "posX": 1600,
+    "posY": 900,
+    "isScore": 0
+  },
+  {
+    "posX": 1400,
+    "posY": 750,
+    "isScore": 0
+  },
+  {
+    "posX": 1550,
+    "posY": 600,
+    "isScore": 0
+  }
+]
