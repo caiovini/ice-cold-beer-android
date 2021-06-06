@@ -2,6 +2,7 @@ com/icecoldbeer/game/R.java
  com.icecoldbeer.game.R
  com.icecoldbeer.game.R$color
  com.icecoldbeer.game.R$drawable
+ com.icecoldbeer.game.R$mipmap
  com.icecoldbeer.game.R$string
  com.icecoldbeer.game.R$style
 com/icecoldbeer/game/BuildConfig.java
