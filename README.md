@@ -14,3 +14,7 @@ by controlling the pads on the right and left
 ## Assets
 
 All assets for this game can be found [here!](https://opengameart.org/content/ball-animation-include-vector-file)
+
+## Google play store
+
+https://play.google.com/store/apps/details?id=com.icecoldbeer.game
