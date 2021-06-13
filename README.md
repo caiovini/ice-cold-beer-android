@@ -17,4 +17,4 @@ All assets for this game can be found [here!](https://opengameart.org/content/ba
 
 ## Google play store
 
-https://play.google.com/store/apps/details?id=com.icecoldbeer.game
+Google play store [here!](https://play.google.com/store/apps/details?id=com.icecoldbeer.game)
